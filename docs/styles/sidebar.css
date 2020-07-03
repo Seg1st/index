@@ -1,0 +1,61 @@
+/*
+ * @author Diseñado por: Andrés Segura
+ */
+
+/* Para quitar las margenes */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#barra_lateral{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background: rgb(99, 23, 99);
+    left: -200px; /* Su ancho es 200px, entonces para que quede oculto*/
+    transition: all 800ms linear;
+}
+#barra_lateral.activo{ 
+    left: 0;
+}
+#barra_lateral ul li{
+    color: blanchedalmond;
+    text-align: center;
+    list-style: none;
+    border-bottom: 1px solid rgb(197, 197, 197);
+    padding: 15px 10px;
+}
+.logo{
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+#barra_lateral .boton-transcision{
+    position: absolute;
+    left: 230px;
+    top: 20px;
+    cursor: pointer;
+}
+                
+#barra_lateral .boton-transcision span{
+    display: block;
+    width: 40px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 1px rgb(94, 88, 88);
+}
+
+/*     CONTENIDO: aquí se almacena todo el contenido de la página, no almacenar en otro lado, porque dará error */
+#contenido{
+    padding-top: 100px;
+    left: 0;
+    display: block;
+    border-radius: 1px rgb(94, 88, 88);
+    transition: all 800ms linear;
+    margin: 0 12px 0 12px;
+}
+
+#contenido.activo{
+    margin-left: 212px;
+}
