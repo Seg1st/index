@@ -24,3 +24,15 @@ mi_boton.addEventListener('click', function (){
    document.getElementById('contenido').classList.toggle('activo');
    onOff();
 })
+
+
+/* Al cargar */
+
+function on_load(){
+   document.getElementById('barra_lateral').classList.toggle('activo');
+   document.getElementById('contenido').classList.toggle('activo');
+   onOff();
+}
+
+
+setTimeout(() => {on_load()}, 700);
