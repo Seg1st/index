@@ -15,5 +15,12 @@ Mi pagina indice en contrucción. [![Home](https://raw.github.com/Seg1st/index/m
 <!-- Icono Badge alucivo a Java -->
 [![Java](https://img.shields.io/badge/Syntax-Java-E85637.svg?style=for-the-badge&logo=Java&logoColor=E85637)](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
 
+## Mis proyectos de ejercicio.
 
++ ![Exp](https://img.shields.io/badge/Exp-java-red) [Ejecutar Fichero.jar desde *.exe](https://github.com/Seg1st/ExecuJARs)
+
+  Este pequeño proyecto lo hago para poder ejecutar mis archivos.jar desde un Ejecutable.exe; básicamente lo mismo que hace el programa _jar2Exe,_ pero con mi código 100%.
+
+
+ 
 
