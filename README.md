@@ -17,10 +17,10 @@ Mi pagina indice en contrucción. [![Home](https://raw.github.com/Seg1st/index/m
 
 ## Mis proyectos de ejercicio.
 
-+ ![Exp](https://img.shields.io/badge/Exp-java-red) [Ejecutar Fichero.jar desde *.exe](https://github.com/Seg1st/ExecuJARs)
++ [![Home](https://raw.github.com/Seg1st/index/master/docs/icons/PrivateRepo.png?raw=true)](https://seg1st.github.io/index/)
+ [Ejecutar Fichero.jar desde *.exe](https://github.com/Seg1st/ExecuJARs)
 
   Este pequeño proyecto lo hago para poder ejecutar mis archivos.jar desde un Ejecutable.exe; básicamente lo mismo que hace el programa _jar2Exe,_ pero con mi código 100%.
 
 
  
-
