@@ -28,3 +28,10 @@ Mi pagina indice en contrucción. [![Home](https://raw.github.com/Seg1st/index/m
   Java Ejercicio donde guardo un contenido predefinido, dentro de un archivo de texto.
  <!-- Enlace a proyecto -->
 
+
+
+
+ <!-- Creditos -->
+ ### Recursos usados
+
+Iconos candados y casa by [iconos8.es](https://iconos8.es)
