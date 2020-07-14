@@ -32,6 +32,6 @@ Mi pagina indice en contrucción. [![Home](https://raw.github.com/Seg1st/index/m
 
 
  <!-- Creditos -->
- ### Recursos usados
+ ### Recursos usados:
 
-Iconos candados y casa by [iconos8.es](https://iconos8.es)
+Iconos candados y casa by [iconos8.es](https://iconos8.es) licencia usada: [link](https://iconos8.es/license)
