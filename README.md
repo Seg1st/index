@@ -1,13 +1,24 @@
-# index
+## Ejercicio
+
+
 
 
 <!--Andrés Segura-->
 
-<!--
-![Alt Text](https://raw.github.com/Seg1st/index/master/docs/icons/Logo_Seg1st.jpg?raw=true "Seg1st")-->
-<center><img src="https://raw.github.com/Seg1st/index/master/docs/icons/Logo_Seg1st.jpg?=raw=true" alt="home" srcset=""></center>
+
+![Alt Text](https://raw.github.com/Seg1st/index/master/docs/icons/Logo_Seg1st.jpg?raw=true "Seg1st")
+
+<!--<center><img src="https://raw.github.com/Seg1st/index/master/docs/icons/Logo_Seg1st.jpg?=raw=true" alt="home" srcset=""></center>-->
 
 <!--Mi página [indice](https://seg1st.github.io/index/) en construcción.-->
+
+
+
+```java
+System.out.println("Hola");
+
+```
+
 
 Mi pagina indice en contrucción. [![Home](https://raw.github.com/Seg1st/index/master/docs/icons/IndexPage.png?raw=true)](https://seg1st.github.io/index/)
 
@@ -27,6 +38,11 @@ Mi pagina indice en contrucción. [![Home](https://raw.github.com/Seg1st/index/m
 
   Java Ejercicio donde guardo un contenido predefinido, dentro de un archivo de texto.
  <!-- Enlace a proyecto -->
+ 
+![Alt Text](https://raw.github.com/Seg1st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")
+
+
+
 
 
 
@@ -34,4 +50,11 @@ Mi pagina indice en contrucción. [![Home](https://raw.github.com/Seg1st/index/m
  <!-- Creditos -->
  ### Recursos usados:
 
-Iconos candados y casa by [iconos8.es](https://iconos8.es) licencia usada: [link](https://iconos8.es/license)
+Agradecimientos a:
+
+Iconos candados y casa por [iconos8.es](https://iconos8.es) licencia usada: [link.](https://iconos8.es/license)
+
+Ilustración de contrucción por **Rafael** en [clipart-gratis.](https://www.clipart-gratis.com/)
+
+
+
