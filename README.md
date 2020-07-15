@@ -1,6 +1,6 @@
-## Ejercicio
+## índice.
 
-
+Ejercicios de markdown, git, GitHub y más.
 
 
 <!--Andrés Segura-->
@@ -14,7 +14,7 @@
 
 
 
-```java
+```Java
 System.out.println("Hola");
 
 ```
