@@ -1,5 +1,8 @@
 # índice.
-
+<!--
+Primero usar como redireccionador.
+-->
+Sitio web [link](https://Andr7st.github.io/index/)
 
 #### JAVA:
 
@@ -28,6 +31,7 @@ print("Hello!")
 
 
 
+
 <!-- 
 DFJKFSJKDBFDSBF
 -->
@@ -41,6 +45,4 @@ DFJKFSJKDBFDSBF
 
 
 
-
-
-
+##### Andrés Segura, @alias Andr7st - GitHub.
