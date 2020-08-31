@@ -1,17 +1,7 @@
-## índice.
-
- 
-![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")
+# índice.
 
 
-
-
-
-
-
-
-
-#### JAVA
+#### JAVA:
 
 * Ejercicios de programación usando Java.
 
@@ -23,7 +13,7 @@ public class Main{
     }
 }
 ```
-#### PYTHON
+#### PYTHON:
 
 * Ejercicios de programación usando python3.
 
@@ -31,11 +21,22 @@ public class Main{
 print("Hello!")
 ```
 
-#### PRIVADO
+#### PRIVADO:
+
+* **SCRIPTS:**  Creando un scrip personalizado que crea un *.jar. [link](https://Andr7st.github.io/index/)
+* **eXec:**  Ejecutar un _*.jar_ fácil. [link](https://Andr7st.github.io/index/)
+
+
 
 <!-- 
 DFJKFSJKDBFDSBF
 -->
+
+<br>
+<br>
+<br>
+
+![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")
 
 
 
