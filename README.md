@@ -2,7 +2,7 @@
 <!--
 Primero usar como redireccionador.
 -->
-Sitio web [link](https://Andr7st.github.io/index/)
+Sitio web [index](https://Andr7st.github.io/index/), perfil GitHub: [Andr7st](https://github.com/Andr7st).
 
 #### JAVA:
 
