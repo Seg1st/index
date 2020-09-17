@@ -9,13 +9,6 @@ Hola, mi nombre es Andrés Segura. Este es el índice de mi perfil GitHub en don
 * Resumen perfil: [Andr7st](https://github.com/Andr7st).
 * Docs: [índice](https://Andr7st.github.io/index/)
 
-<br>
-
-### En construcción.
-![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")
-
-<br>
-
  
  [![Video](https://raw.github.com/Andr7st/index/master/img/Logo_java_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Java.md/)
  [![Video](https://raw.github.com/Andr7st/index/master/img/Logo_python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
@@ -26,8 +19,6 @@ Hola, mi nombre es Andrés Segura. Este es el índice de mi perfil GitHub en don
 #### JAVA:
 
 * Ejercicios de programación usando Java.
-
-
 
 ```java
 package paquete;
@@ -59,11 +50,21 @@ print("Hello!")
 <br>
 
 ### Social:
+
 Grupo de WhatsApp El Programador: [https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/](https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/). 
 
 ![Alt Text](https://raw.github.com/Andr7st/index/master/img/WhatsApp_grupo0.png?raw=true "Grupo de WhatsApp: El Programador, enlace QR Beta.")
+<br>
+![Alt Text](https://raw.github.com/Andr7st/index/master/img/Logo_whatsapp_x48.png?raw=true "Seg1st") 
 
 
+
+<br>
+
+### En construcción.
+![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")
+
+<br>
 
 
 
