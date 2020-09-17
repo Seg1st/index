@@ -1,4 +1,4 @@
-# índice.
+# Índice.
 <!--
 Primero usar como redireccionador.
 -->
