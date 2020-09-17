@@ -4,15 +4,15 @@
 <!--
 Primero usar como redireccionador.
 -->
-Hola, mi nombre es Andrés Segura. Este es el índice de mi perfil GitHub en donde enlazaré varios de mis ejercicios. 
+Hola, mi nombre es Andrés Segura. Este es el índice de mi perfil GitHub en donde enlazaré varios de mis ejercicios de programación. 
 
 * Resumen perfil: [Andr7st](https://github.com/Andr7st).
 * Docs: [índice](https://Andr7st.github.io/index/)
 
  
- [![Video](https://raw.github.com/Andr7st/index/master/img/Logo_java_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Java.md/)
- [![Video](https://raw.github.com/Andr7st/index/master/img/Logo_python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
- [![Video](https://raw.github.com/Andr7st/index/master/img/Logo_console_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
+ [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_java_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Java.md/)
+ [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
+ [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_console_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
 
 
 
@@ -45,9 +45,6 @@ print("Hello!")
 
 
 <br>
-<br>
-
-<br>
 
 ### Social:
 
@@ -62,6 +59,7 @@ Grupo de WhatsApp El Programador: [https://chat.whatsapp.com/EzjLfxlmxOPBbysU56d
 <br>
 
 ### En construcción.
+Este perfil está en contrucción.
 ![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")
 
 <br>
