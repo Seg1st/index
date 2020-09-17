@@ -12,7 +12,7 @@ Sitio web [index](https://Andr7st.github.io/index/), perfil GitHub: [Andr7st](ht
 package paquete;
 public class Main{
     public static void main(String[] args) {
-        System.out.printf("Andrés Segura %d", 2020); // Imrimirá: Andrés Segura 2020
+        System.out.printf("Andrés Segura %d", 2020); // Imprimirá: Andrés Segura 2020
     }
 }
 ```
