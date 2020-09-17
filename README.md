@@ -8,7 +8,6 @@ Sitio web [index](https://Andr7st.github.io/index/), perfil GitHub: [Andr7st](ht
 
 * Ejercicios de programación usando Java.
 
-Lista Java ![Alt Text](https://raw.github.com/Andr7st/index/master/LIST_JAVA.md?raw=true "Andr7st")
 
 ```java
 package paquete;
