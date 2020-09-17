@@ -1,12 +1,20 @@
 # índice.
+
+
 <!--
 Primero usar como redireccionador.
 -->
 Sitio web [index](https://Andr7st.github.io/index/), perfil GitHub: [Andr7st](https://github.com/Andr7st).
 
+ * [Ejercicios de programación usando Java](https://github.com/Andr7st/index/blob/master/src/Lista_Java.md/)
+ * [Ejercicios de programación usando Python](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
+
+
+
 #### JAVA:
 
 * Ejercicios de programación usando Java.
+
 
 
 ```java
