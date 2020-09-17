@@ -1,4 +1,4 @@
-# Índice.
+# índice.
 <!--
 Primero usar como redireccionador.
 -->
@@ -45,4 +45,4 @@ DFJKFSJKDBFDSBF
 
 
 
-##### Andrés Segura, @alias Andr7st - GitHub.
+##### Andrés Segura.
