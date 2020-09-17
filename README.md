@@ -4,14 +4,12 @@
 <!--
 Primero usar como redireccionador.
 -->
-Sitio web [index](https://Andr7st.github.io/index/), perfil GitHub: [Andr7st](https://github.com/Andr7st).
+Hola, mi nombre es Andrés Segura [index](https://Andr7st.github.io/index/),mi perfil GitHub: [Andr7st](https://github.com/Andr7st).
 
  
  [![Video](https://raw.github.com/Andr7st/index/master/img/Logo_java_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Java.md/)
  [![Video](https://raw.github.com/Andr7st/index/master/img/Logo_python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
-
-
-
+ [![Video](https://raw.github.com/Andr7st/index/master/img/Logo_console_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
 
 
 
@@ -43,17 +41,22 @@ print("Hello!")
 * **eXec:**  Ejecutar un _*.jar_ fácil. [link](https://Andr7st.github.io/index/)
 
 
-
-
-<!-- 
-DFJKFSJKDBFDSBF
--->
-
 <br>
 <br>
 <br>
 
 ![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")
+
+<br><br>
+
+### Social:
+El Programador [https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/](https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/) grupo de WhatsApp.
+
+![Alt Text](https://raw.github.com/Andr7st/index/master/img/WhatsApp_grupo0.png?raw=true "Grupo de WhatsApp: El Programador, enlace QR Beta.")
+
+
+
+
 
 
 
