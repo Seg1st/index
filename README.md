@@ -5,6 +5,7 @@ Hola, mi nombre es **Andrés Segura**, estoy aprendiendo. Este es el índice de 
 * Resumen perfil: [Andr7st](https://github.com/Andr7st).
 * Docs: [índice](https://Andr7st.github.io/index/)
 
+Al presionar en algún ícono, llevará hacia su **lista** de ejercicios:
  
  [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_java_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Java.md/)
  [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
@@ -54,6 +55,8 @@ Grupo de WhatsApp "El Programador": [https://chat.whatsapp.com/EzjLfxlmxOPBbysU5
 
 
 <br>
+
+**Repoid: 000i**
 
 ### En construcción.
 Este perfil está en contrucción.
