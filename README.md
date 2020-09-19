@@ -37,8 +37,9 @@ print("Hello!")
 
 #### PRIVADO:
 
-* **SCRIPTS:**  Creando un scrip personalizado que crea un *.jar. [link](https://Andr7st.github.io/index/)
-* **eXec:**  Ejecutar un _*.jar_ fácil. [link](https://Andr7st.github.io/index/)
+* [**Proyecto: Tec Vic Da-Rel**](https://github.com/Andr7st/Proyecto-EVR)
+* *[Jared](https://Andr7st.github.io/index/)*
+* [ExecuJar easy](https://Andr7st.github.io/index/)
 
 <br>
 
