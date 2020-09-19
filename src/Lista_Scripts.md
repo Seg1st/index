@@ -1,1 +1,4 @@
-# Scripts
+#### Scripts
+
+* Powershell
+* CMD
