@@ -7,6 +7,8 @@ Hola, mi nombre es **Andrés Segura**, estoy aprendiendo. Este es el índice de 
 
 Al presionar en algún ícono, llevará hacia su **lista** de ejercicios:
  
+ * [**Java-Exe:**](https://github.com/Andr7st/Java-Exercises) Un nombre un poco más descriptivo --> ***Java-Exercises***.
+ 
  [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_java_x64.png)](https://github.com/Andr7st/Java-Exercises) <!-- Ejercicios Java -->
  [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
  [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_console_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Scripts.md/)
