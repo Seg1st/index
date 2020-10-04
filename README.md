@@ -48,13 +48,13 @@ print("Hello!")
 ### Social:
 
 
-Grupo de WhatsApp "El Programador": [https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/](https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/). 
+Grupo de WhatsApp [**El Programador**](https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/). 
 <!--
 ![Alt Text](https://raw.github.com/Andr7st/index/master/img/WhatsApp_grupo0.png?raw=true "Grupo de WhatsApp: El Programador, enlace QR Beta.")
 
 -->
 
-<br>
+
 
 ![Alt Text](https://raw.github.com/Andr7st/index/master/img/Logo_whatsapp_x48.png?raw=true "Seg1st") 
 
@@ -62,13 +62,15 @@ Grupo de WhatsApp "El Programador": [https://chat.whatsapp.com/EzjLfxlmxOPBbysU5
 
 <br>
 
-**Repoid: 000i**
 
-### En construcción.
-Este perfil está en contrucción.
+
 <!--
+
+En contrucción.
+### En construcción.
+
 ![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")-->
 
 <br>
 
-##### Andrés Segura.
+##### Andr7st
