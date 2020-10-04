@@ -36,20 +36,23 @@ public class Main{
 ```
 print("Hello!")
 ```
-
+<!--
 #### PRIVADO:
 
 * [**Proyecto: Tec Vic Da-Rel**](https://github.com/Andr7st/Proyecto-EVR)
 * *[Jared](https://Andr7st.github.io/index/)*
 * [ExecuJar easy](https://Andr7st.github.io/index/)
-
+-->
 <br>
 
 ### Social:
 
-Grupo de WhatsApp "El Programador": [https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/](https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/). 
 
+Grupo de WhatsApp "El Programador": [https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/](https://chat.whatsapp.com/EzjLfxlmxOPBbysU56dp7e/). 
+<!--
 ![Alt Text](https://raw.github.com/Andr7st/index/master/img/WhatsApp_grupo0.png?raw=true "Grupo de WhatsApp: El Programador, enlace QR Beta.")
+
+-->
 
 <br>
 
@@ -63,7 +66,8 @@ Grupo de WhatsApp "El Programador": [https://chat.whatsapp.com/EzjLfxlmxOPBbysU5
 
 ### En construcción.
 Este perfil está en contrucción.
-![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")
+<!--
+![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")-->
 
 <br>
 
