@@ -26,17 +26,18 @@ public class Main{
         System.out.printf("Andrés Segura %d", 2020);
     }
 }
-
-// Imprimirá: Andrés Segura 2020
 ```
+
+<!--
 #### PYTHON:
 
 * Ejercicios de programación usando python3.
 
 ```
+
 print("Hello!")
 ```
-<!--
+
 #### PRIVADO:
 
 * [**Proyecto: Tec Vic Da-Rel**](https://github.com/Andr7st/Proyecto-EVR)
@@ -52,7 +53,7 @@ Grupo de WhatsApp [**El Programador**](https://chat.whatsapp.com/EzjLfxlmxOPBbys
 <!--
 ![Alt Text](https://raw.github.com/Andr7st/index/master/img/WhatsApp_grupo0.png?raw=true "Grupo de WhatsApp: El Programador, enlace QR Beta.")
 
--->
+
 
 
 
@@ -72,5 +73,6 @@ En contrucción.
 ![Alt Text](https://raw.github.com/Andr7st/index/master/docs/images/ilustrativa_1.jpg?raw=true "Seg1st")-->
 
 <br>
+-->
 
 ##### Andr7st
