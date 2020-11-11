@@ -9,20 +9,6 @@ Hola, mi nombre es **Andrés Segura**, estoy aprendiendo. Este es el índice de 
  [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
  [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_console_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Scripts.md/)
  
- ```java
-package andr7st;
-public class Main{
-    public static void main(String[] args) {
-        final String miNomnre = "Andrés Segura";
-        System.out.printf("Mi nombre es %s%n", miNombre);
-    }
-}
-```
-**Salida**
-``` console> Mi nombre es Andrés Segura ```
-
-<br>
-
  Repositorios con algúnas de mis practicas en programación en mis tiempos libres, no tienen objetivo funcional concreto, sólo son de aprendizaje.
 
 * Listar repositorios con sus accesos, algúnos son privados.
@@ -34,7 +20,19 @@ public class Main{
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-Ex-Fuentes](https://github.com/Andr7st/Java-Ex-Fuentes) | Obtener las fuentes instaladas en el sistema. |
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-Ex-FileWrite](https://github.com/Andr7st/Java-Ex-FileWrite) | Escribir texto plano. |
 
+<br>
 
+ ```java
+package andr7st;
+public class Main{
+    public static void main(String[] args) {
+        final String miNomnre = "Andrés Segura";
+        System.out.printf("Mi nombre es %s%n", miNombre);
+    }
+}
+```
+**Salida**
+``` console> Mi nombre es Andrés Segura ```
 
 
  
