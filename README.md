@@ -12,7 +12,11 @@ Hola, mi nombre es **Andrés Segura**, estoy aprendiendo. Este es el índice de 
 
 #### JAVA:
 
-```java
+
+
+ Repositorios con algúnas de mis practicas en programación en mis tiempos libres, no tienen objetivo funcional concreto, sólo son de aprendizaje.
+ 
+ ```java
 package andr7st;
 public class Main{
     public static void main(String[] args) {
@@ -23,8 +27,6 @@ public class Main{
 ```
 **Salida**
 ``` console> Mi nombre es Andrés Segura ```
-
- Repositorios con algúnas de mis practicas en programación en mis tiempos libres, no tienen objetivo funcional concreto, sólo son de aprendizaje.
 
 | PL | LINK | DESCRIPTION   |
 | ------------- | ------------- | ------------- |
