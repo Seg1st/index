@@ -9,7 +9,7 @@ Hola, mi nombre es **Andrés Segura**, estoy aprendiendo. Este es el índice de 
  [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
  [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_console_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Scripts.md/)
  
- Repositorios con algúnas de mis practicas en programación en mis tiempos libres, no tienen objetivo funcional concreto, sólo son de aprendizaje.
+ Repositorios con algúnas de mis practicas en programación en mis tiempos libres, la mayoría no tienen objetivo funcional concreto, sólo son de aprendizaje.
 
 * Listar repositorios con sus accesos, algúnos son privados.
 
