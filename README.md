@@ -28,6 +28,7 @@ Hola, mi nombre es **Andrés Segura**, estoy aprendiendo. Este es el índice de 
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-Ex-Fuentes](https://github.com/Andr7st/Java-Ex-Fuentes) | Obtener las fuentes instaladas en el sistema. |
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-Ex-FileWrite](https://github.com/Andr7st/Java-Ex-FileWrite) | Escribir texto plano. |
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-Ex-FileRead](https://github.com/Andr7st/Java-Ex-FileRead) | Leer un archivo de texto plano. |
+| ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-C_x16.png) | [Java-FileIO](https://github.com/Andr7st/Java-FileIO) | Métodos con opciones de lectura y escritura. |
 
 <br>
 
