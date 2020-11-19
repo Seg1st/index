@@ -29,6 +29,11 @@ Hola, mi nombre es **Andrés Segura**, estoy aprendiendo. Este es el índice de 
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-Ex-FileWrite](https://github.com/Andr7st/Java-Ex-FileWrite) | Escribir texto plano. |
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-Ex-FileRead](https://github.com/Andr7st/Java-Ex-FileRead) | Leer un archivo de texto plano. |
 | ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-C_x16.png) | [Java-FileIO](https://github.com/Andr7st/Java-FileIO) | Métodos con opciones de lectura y escritura. |
+| ![Lista.md](https://raw.github.com/Andr7st/index/master/img/Padlock-O_x16.png) | [Java-LeerJSON](https://github.com/Andr7st/Java-LeerJSON) | Leer archivos JSON, usando librería. |
+
+
+
+
 
 <br>
 
