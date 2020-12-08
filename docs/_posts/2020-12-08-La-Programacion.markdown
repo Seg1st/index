@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "La programacion"
 date:   2020-12-08 16:42:10 -0500
 categories: jekyll update
 ---
