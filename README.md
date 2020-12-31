@@ -1,13 +1,12 @@
-# Andr7st - Andrés Segura
+### Andr7st
 
-Hola, mi nombre es **Andrés Segura**, estoy aprendiendo. Este es el índice de mi perfil en donde enlazaré varios de mis ejercicios de programación. 
-
+Repositorio lista.
 <!--
 * Docs: [índice](https://Andr7st.github.io/index/) -->
 
- [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_java_x64.png)](https://github.com/Andr7st/Java-Exercises) <!-- Ejercicios Java -->
- [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
- [![Lista.md](https://raw.github.com/Andr7st/index/master/img/Logo_console_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Scripts.md/)
+ [![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/java_x64.png)](https://github.com/Andr7st/Java-Exercises) <!-- Ejercicios Java -->
+ [![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/python_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Python.md/)
+ [![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/git_x64.png)](https://github.com/Andr7st/index/blob/master/src/Lista_Scripts.md/)
  
  ---
  
@@ -51,9 +50,8 @@ public class Main{
 
 ---
 
- 
- #### Créditos:
- 
+<!--
  [iconos8.es](https://iconos8.es/) - imágenes usadas.
-  
- ##### [GitHub - Andr7st](https://github.com/Andr7st)
+-->
+
+[**Andr7st**](https://github.com/Andr7st)
