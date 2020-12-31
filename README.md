@@ -1,6 +1,6 @@
 ### Andr7st
 
-**Repositorio lista** listando algunas practicas de programación que he hecho. Estoy estudiando POO con java, quiero especializarme en backend.
+**Repositorio lista**, listando algunas practicas de programación que he hecho. Estoy estudiando **POO** con el lenguaje de programación java, quiero especializarme en backend.
 
 <!-- * Docs: [índice](https://Andr7st.github.io/index/) -->
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/windows_x32.png)
