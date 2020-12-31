@@ -1,17 +1,13 @@
 ### Andr7st
 
-Como "lo que se aprende y no se practica, se olvida." He decidido hacer este **repositorio lista** listando algunas practicas de programación que he hecho.
+Como "lo que se aprende y no se practica, se olvida." He decidido hacer este **repositorio lista** listando algunas practicas de programación que he hecho. Estoy estudiando POO con java, quiero especializarme en backend.
+
 <!-- * Docs: [índice](https://Andr7st.github.io/index/) -->
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/windows_x32.png)
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/java_x32.png)
-![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/python_x32.png)
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/git_x32.png)
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/github_x32.png)
  
----
-
- Repositorios con algúnas de mis practicas en programación en mis tiempos libres, la mayoría no tienen objetivo funcional concreto, sólo son de aprendizaje.
-
 | VSB | LINK | DESCRIPTION   |
 | ------------- | ------------- | ------------- |
 | ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/padlock_c_x16.png) | [Java-eXecuJar](https://github.com/Andr7st/Java-eXecuJar) | Escrito en C, funcional, permite ejecutar *jar* como si fueran *exe*   |
@@ -36,7 +32,7 @@ public class Main{
 }
 ```
 **Salida**
-``` console> Mi nombre es Andrés Segura ```
+``` $ Mi nombre es Andrés Segura ```
 
 ---
 
