@@ -1,6 +1,4 @@
-### Andr7st
-
-**Lista:** Algunas practicas de programación que he hecho. 
+### Andr7st/index
 
 <!-- * Docs: [índice](https://Andr7st.github.io/index/) -->
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/windows_x32.png)
@@ -8,6 +6,8 @@
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/git_x32.png)
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/github_x32.png)
  
+ **Lista:** Algunas practicas de programación que he hecho. 
+
  
  <br>
  
