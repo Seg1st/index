@@ -37,8 +37,8 @@
 package andr7st;
 public class Main{
     public static void main(String[] args) {
-        final String miNomnre = "Andrés Segura";
-        System.out.printf("Mi nombre es %s%n", miNombre);
+        final String MI_NOMBRE = "Andrés Segura";
+        System.out.printf("Mi nombre es %s%n", MI_NOMBRE);
     }
 }
 ```
