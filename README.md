@@ -1,6 +1,6 @@
 ### Andr7st
 
-**Repositorio lista**, listando algunas practicas de programación que he hecho. Estoy estudiando **POO** con el lenguaje de programación java, quiero especializarme en backend.
+**Lista:** Algunas practicas de programación que he hecho. 
 
 <!-- * Docs: [índice](https://Andr7st.github.io/index/) -->
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/windows_x32.png)
@@ -9,9 +9,11 @@
 ![icon](https://raw.github.com/Andr7st/index/main/src/images/icons/github_x32.png)
  
  
- | ID     | Name           | Desciption |
- |--------|----------------|------------|
- | JF-E06 | Java-LoginForm | Proyecto   |
+ <br>
+ 
+ | Rep-ID    | Name           | Desciption |
+ |-------------|----------------|------------|
+ | [**JF-E06**](https://github.com/Andr7st/Java-LoginForm) | **Java-LoginForm** | *Ventana de login.*   |
  
  <!--
  
